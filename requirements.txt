@@ -1,7 +1,7 @@
 streamlit
+requests
 langchain
 langchain-community
 langchain-openai
 faiss-cpu
-pypdf
-requests
+PyPDF2
